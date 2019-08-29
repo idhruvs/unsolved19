@@ -13,4 +13,4 @@ Like many other facets of environmental impact, developed countries (such as Swe
 
 
 
-<a name="myfootnote1">1</a>:  Food and Agricultural Organization of the United Nations (FAO). "Global Food Losses and Food Waste: Extent, Causes and Prevention." 2011. http://www.fao.org/3/a-i2697e.pdf
+^<a name="myfootnote1">1</a>:  Food and Agricultural Organization of the United Nations (FAO). "Global Food Losses and Food Waste: Extent, Causes and Prevention." 2011. http://www.fao.org/3/a-i2697e.pdf> ^
