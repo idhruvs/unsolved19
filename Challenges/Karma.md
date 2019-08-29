@@ -50,5 +50,4 @@ We can’t promise ongoing support for any awesome projects started here, but we
 
 
 <sub><sup><a name="myfootnote1">1</a>:  Food and Agricultural Organization of the United Nations (FAO). "Global Food Losses and Food Waste: Extent, Causes and Prevention." 2011. http://www.fao.org/3/a-i2697e.pdf </sup></sub>
-
 <sub><sup><a name="myfootnote2">2</a>:  The Intergovernmental Panel on Climate Change (IPCC). "IPCC Special Report on Climate Change and Land: Summary for Policymakers." August 2019. https://www.ipcc.ch/site/assets/uploads/2019/08/3.-Summary-of-Headline-Statements.pdf</sup></sub>
