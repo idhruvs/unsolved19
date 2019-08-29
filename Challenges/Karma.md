@@ -42,7 +42,7 @@ This Challenge most clearly addresses Goal #12 (Responsible Consumption), but ha
 
 ### HASHTAGS
 
- <sub> #zerofoodwastegeneration #fightfoodwaste #karmaapp </sub>
+&#35;zerofoodwastegeneration #fightfoodwaste #karmaapp </sub>
 
 ### FUTURE PLANS
 
