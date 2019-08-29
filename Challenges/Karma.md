@@ -8,8 +8,8 @@ https://hackforimpact.norrskenimpactweek.org
 
 ### AUTHOR
 
-Kate Willison
-Product Owner of Karma for Buyers
+Kate Willison <br>
+Product Owner of Karma for Buyers <br>
 Karmalicious AB
 
 
