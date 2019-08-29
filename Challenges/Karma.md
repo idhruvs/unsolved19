@@ -4,7 +4,17 @@
 
 *Originally published for Hack for Impact @Norrsken House 2019*
 
-### Challenge
+https://hackforimpact.norrskenimpactweek.org
+
+### AUTHOR
+
+Kate Willison
+Product Owner of Karma for Buyers
+Karmalicious AB
+
+
+### CHALLENGE
+
 
 Globally, about one third of all food produced is wasted. Given that agriculture and food production cause up to 23% of yearly net global greenhouse gas emissions, this (largely avoidable) waste represents an opportunity to eliminate a substantial driver of human-caused climate change.
 
@@ -32,7 +42,7 @@ This Challenge most clearly addresses Goal #12 (Responsible Consumption), but ha
 
 ### HASHTAGS
 
-# #zerofoodwastegeneration #fightfoodwaste #karmaapp
+ <sub> #zerofoodwastegeneration #fightfoodwaste #karmaapp </sub>
 
 ### FUTURE PLANS
 
