@@ -18,5 +18,5 @@ Norrsken Foundation<br>
 @norrsken_org<br>
 info@norrskenfoundation.org<br>
 
-*We are a non-religious, non-partisan, non-profit Foundation with a strong belief in Effective Altruism. We support and invest in both for-profit businesses and non-profit organizations, whichever we believe is most likely to have a positive impact on society. Although we are based in Stockholm, Sweden, we see ourselves as world citizens.
+*We are a non-religious, non-partisan, non-profit Foundation with a strong belief in Effective Altruism. We support and invest in both for-profit businesses and non-profit organizations, whichever we believe is most likely to have a positive impact on society. Although we are based in Stockholm, Sweden, we see ourselves as world citizens.*
 

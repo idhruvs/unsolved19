@@ -6,15 +6,14 @@
 
 https://hackforimpact.norrskenimpactweek.org
 
-### AUTHOR
+### Author
 
 Kate Willison <br>
 Product Owner of Karma for Buyers <br>
 Karmalicious AB
 
 
-### CHALLENGE
-
+### Challenge
 
 Globally, about one third of all food produced is wasted. Given that agriculture and food production cause up to 23% of yearly net global greenhouse gas emissions, this (largely avoidable) waste represents an opportunity to eliminate a substantial driver of human-caused climate change.
 
@@ -22,29 +21,29 @@ Like many other facets of environmental impact, developed countries (such as Swe
 
 Food that is wasted at the consumer level is most often still perfectly edible; the Food and Agricultural Organization of the United Nations (FAO) has highlighted that “insufficient purchase planning and expiring ‘best-before-dates’... cause large amounts of waste, in combination with the careless attitude of those consumers who can afford to waste food”<sup>[2](#myfootnote2)</sup>., suggesting that education, aligning incentives and proper planning at the consumer level could have a large positive effect in tackling the larger food waste issue. 
 
-### BACKGROUND
+### Background
 
 Karma is a Swedish startup founded in Stockholm, November 2016. The app connects surplus food from restaurants, cafes and grocery stores to consumers for a lower price. As a result, users eat great food for less and businesses receive an additional revenue stream — all while reducing food waste.
 
 Karma has reached 150 Swedish cities, working with 2000 retailers, and attracting 500,000 app users. In February 2018, Karma launched in London and one year later, setup a third market in Paris. To date, 295 tonnes food has been rescued with the app!
 
-### GOALS
+### Goals
 
 The broad goal here is to reduce the amount of once-edible food that is thrown away from homes. Some avenues to explore might be in educating consumers about the impact of their food waste, in building tools that help them get a better sense of how much and what types of food they most frequently waste, or in providing a means to prevent food that has already been bought from being thrown out (suggesting recipes, peer sharing, etc).
 
-### END USERS
+### End users
 
 Anyone who buys food from a grocery store in Europe or North America - mothers, bachelors, college students, you name it!
 
-### AGENDA 2030
+### Agenda 2030
 
 This Challenge most clearly addresses Goal #12 (Responsible Consumption), but has indirect effects on Goal #13 (Climate Action), Goal #14 (Life Below Water), Goal #15 (Life on Land), and Goal #2 (No Hunger).
 
-### HASHTAGS
+### Hashtags
 
 &#35;zerofoodwastegeneration #fightfoodwaste #karmaapp </sub>
 
-### FUTURE PLANS
+### Future Plans
 
 We can’t promise ongoing support for any awesome projects started here, but we’d love to hear your ideas, give code review feedback, and explore if there are ways Karma can support or integrate with the solutions you create going forward!
 
