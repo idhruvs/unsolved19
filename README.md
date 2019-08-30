@@ -4,19 +4,19 @@ Unsolved is an unconference where the most brilliant minds in impact tech are ga
 
 This Github repo contains information and resources by and for the Norrsken Hack for impact hackathon. For more information, visit out website at https://hackforimpact.norrskenimpactweek.org/
 
-## CHALLENGES
+## Challenges
 
-* [KARMA] (<https://github.com/NorrskenFoundation/unsolved19/blob/master/Challenges/Karma.md)>
+  * [Karma](Challenges/2015_Malmo/2015_Malmo_Summary.md)
 
-## HACKER DAY EVENT PARTNER 
+## Hacker day event partner 
 
 [ERICSSON](https://www.ericsson.com/en)
 
-## PRESENTED BY 
+## Presented by
 
 Norrsken Foundation<br>
 @norrsken_org<br>
 info@norrskenfoundation.org<br>
 
-We are a non-religious, non-partisan, non-profit Foundation with a strong belief in Effective Altruism. We support and invest in both for-profit businesses and non-profit organizations, whichever we believe is most likely to have a positive impact on society. Although we are based in Stockholm, Sweden, we see ourselves as world citizens.
+*We are a non-religious, non-partisan, non-profit Foundation with a strong belief in Effective Altruism. We support and invest in both for-profit businesses and non-profit organizations, whichever we believe is most likely to have a positive impact on society. Although we are based in Stockholm, Sweden, we see ourselves as world citizens.
 
