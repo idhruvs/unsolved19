@@ -6,7 +6,7 @@ This Github repo contains information and resources by and for the Norrsken Hack
 
 ## CHALLENGES
 
-* [KARMA] (Challenges/Karma.md)
+* [KARMA] (<https://github.com/NorrskenFoundation/unsolved19/blob/master/Challenges/Karma.md)>
 
 ## HACKER DAY EVENT PARTNER 
 
