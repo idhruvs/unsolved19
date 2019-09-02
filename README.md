@@ -6,7 +6,7 @@ This Github repo contains information and resources by and for the Norrsken Hack
 
 ## Challenges
 
-  * [Karma](Challenges/2015_Malmo/2015_Malmo_Summary.md)
+  * [Karma](Challenges/Karma.md)
 
 ## Hacker day event partner 
 
