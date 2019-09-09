@@ -32,7 +32,7 @@ Today we provide healthcare institutions with a medical information gathering sy
 Our proposed project is to provide relevant, high-quality medical information earlier in the process and with less human involvement. This would empower the patients, while at the same time decreasing the load on healthcare professionals.There is a number of reliable, high-quality medical resources in Swedish and other languages online, but ordinary search engines do not discriminate between these and other, generic sources. Also, there are often many ways to describe the same kind of medical symptoms, but with different words, and the language used by patients often differs from the more academic language used in medical texts, which limits the usability of ordinary pattern-matching search techniques.
 
 Some source ideas:
-[Vårdguiden](https://www.1177.se/)<br>
+<br> [Vårdguiden](https://www.1177.se/)<br>
 [Medibad](https://privat.medibas.se)
 [Nationellt kliniskt kunskapsstöd](https://nationelltklinisktkunskapsstod.se/)<br>
 [Snomed](http://www.snomed.org/)<br>
