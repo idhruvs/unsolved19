@@ -32,11 +32,11 @@ Today we provide healthcare institutions with a medical information gathering sy
 Our proposed project is to provide relevant, high-quality medical information earlier in the process and with less human involvement. This would empower the patients, while at the same time decreasing the load on healthcare professionals.There is a number of reliable, high-quality medical resources in Swedish and other languages online, but ordinary search engines do not discriminate between these and other, generic sources. Also, there are often many ways to describe the same kind of medical symptoms, but with different words, and the language used by patients often differs from the more academic language used in medical texts, which limits the usability of ordinary pattern-matching search techniques.
 
 Some source ideas:
-[Vårdguiden](https://www.1177.se/)
+[Vårdguiden](https://www.1177.se/)<br>
 [Medibad](https://privat.medibas.se)
-[Nationellt kliniskt kunskapsstöd](https://nationelltklinisktkunskapsstod.se/)
-[Snomed](http://www.snomed.org/)
-[Turning Research Into Practice](https://www.tripdatabase.com/)
+[Nationellt kliniskt kunskapsstöd](https://nationelltklinisktkunskapsstod.se/)<br>
+[Snomed](http://www.snomed.org/)<br>
+[Turning Research Into Practice](https://www.tripdatabase.com/)<br>
 [List of medical wikis](https://en.wikipedia.org/wiki/List_of_medical_wikis)
 
 Doctrin also has proprietary, anonymised medical interaction data, that can be (and has been) used for approved research projects within academia, but not shared publicly. Contact us if you have a project candidate that you think fulfills this criteria.
