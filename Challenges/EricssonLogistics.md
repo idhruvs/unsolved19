@@ -54,5 +54,5 @@ Your solution to this challenge can make a huge contribution to a more resilient
 
 ### Other resources
 
-[SMHI APIs](https://opendata.smhi.se/apidocs/)
+[SMHI APIs](https://opendata.smhi.se/apidocs/) <br>
 [SMHI open data](https://www.smhi.se/data/utforskaren-oppna-data/?p=1&q=)
