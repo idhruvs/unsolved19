@@ -14,9 +14,9 @@ This Github repo contains information and resources by and for the Norrsken Hack
 
 
 
-## Hand in of solution 
+## Submit solution 
 
-You find all cases on our above or [here.](Challenges) Every team must create a new repository, to hand in your solution one from the team emails the link to unsolved@norrskenfoundation.org before 18.45. After that time we will not be able to judge your solution. The README file should contain the following information:
+You find all cases on our above or [here.](Challenges) Every team must create a new repository, to submit your solution one from the team emails the link to unsolved@norrskenfoundation.org before 18.45. After that time we will not be able to judge your solution. The README file should contain the following information:
 
 * Team name
 * Team members
@@ -40,3 +40,5 @@ info@norrskenfoundation.org<br>
 
 *We are a non-religious, non-partisan, non-profit Foundation with a strong belief in Effective Altruism. We support and invest in both for-profit businesses and non-profit organizations, whichever we believe is most likely to have a positive impact on society. Although we are based in Stockholm, Sweden, we see ourselves as world citizens.*
 
+
+[Terms & conditions](https://hackforimpact.norrskenimpactweek.org/terms-and-conditions)
