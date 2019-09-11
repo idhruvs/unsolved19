@@ -54,7 +54,7 @@ Your solution to this challenge can make a huge contribution to a more resilient
 
 ### Other
 
-Ericsson will provide access to their their cloud service for the participants of the hackathon <br>
+Ericsson will provide access to their cloud service for the participants of the hackathon. <br>
 
 [SMHI APIs](https://opendata.smhi.se/apidocs/) <br>
 [SMHI open data](https://www.smhi.se/data/utforskaren-oppna-data/?p=1&q=)
