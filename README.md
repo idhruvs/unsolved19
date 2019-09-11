@@ -1,4 +1,5 @@
-# unsolved 2019
+# unsolved 2019 :spock-hand:
+
 
 Unsolved is an unconference where the most brilliant minds in impact tech are gathered to hash out how we can use technology to solve some of the biggest challenges of our time. One part of Unsolved is Hack for Impact. The participants in the hackathon will work with four different real life humanitarian cases that all address world issues related to the Agenda 2030 goals. 
 
