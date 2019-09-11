@@ -72,5 +72,6 @@ Your solution to this challenge can make a huge contribution to a more resilient
 
 ### Other
 
-Ericsson will provide access to their platform for the participants of the hackathon<br>
+Ericsson will provide access to their platform for the participants of the hackathon. <br>
+
 Swedish Transport Administration has open data that could be useful, you find it [here.](https://www.trafikverket.se/tjanster/Oppna_data/hamta-var-oppna-data/lastkajen---sveriges-vag--och-jarnvagsdata/)
