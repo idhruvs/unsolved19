@@ -17,7 +17,6 @@ This Github repo contains information and resources by and for the Norrsken Hack
 ## Submit solution 
 Every team must create a new repository on GitHub. To submit your solution, one of your team members must email the link to unsolved@norrskenfoundation.org before 18.45. After that time we will not be able to judge your solution. The subject of the email should be your team name and the challenge you have been working on. The README file should contain the following information:
 
-
 * Team name
 * Team members
 * Challenge
@@ -28,9 +27,9 @@ Every team must create a new repository on GitHub. To submit your solution, one 
 * Languages used
 
 ## Pitch
-As this is a short and intense hackathon with 26 competing teams, only 10 teams will get the chance to pitch their solution to the audience. Representatives from Norrsken & Ericsson will select the finalists (at least two from each challenge). 
+As this is a short and intense hackathon with 26 competing teams, only 8 teams will get the chance to pitch their solution to the audience. Representatives from Norrsken & Ericsson will select the finalists (two from each challenge). 
 
-The finalists will be announced in the beginning of the pitch event. There will be no time to prepare a presentation once the finalists have been announced, meaning that all teams must be ready to pitch their solution from their own laptops. You can choose whatever presentation tool you want but it must have the format 16:9. The pitch time is limited to three minutes, so keep it short and sweet!
+The finalists will be announced in the beginning of the pitch event. There will be no time to prepare a presentation once the finalists have been announced, meaning that all teams must be ready to pitch at 8pm. You can choose whatever presentation tool you want but it must have the format 16:9. The pitch time is limited to three minutes, so keep it short and sweet!
 
 ## Prize categories
 
