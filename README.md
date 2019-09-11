@@ -6,8 +6,26 @@ This Github repo contains information and resources by and for the Norrsken Hack
 
 ## Challenges
 
-  * [Karma](Challenges/Karma.md)
   * [Doctrin](Challenges/Doctrin.md)
+  * [EricssonLogistics](Challenges/EricssonLogistics.md)
+  * [EricssonWeather](Challenges/EricssonWeather.md)
+  * [Karma](Challenges/Karma.md)
+
+
+
+## Hand in of solution 
+
+You find all cases on our above or [here.](Challenges) Every team must create a new repository, to hand in your solution one from the team emails the link to unsolved@norrskenfoundation.org before 18.45. After that time we will not be able to judge your solution. The README file should contain the following information:
+
+* Team name
+* Team members
+* Chosen case
+* Our solution: (a short description of the idea)
+* Presentation slides (optional)
+* Applied license
+* Services used
+* Languages used
+
 
 ## Hacker day event partner 
 
