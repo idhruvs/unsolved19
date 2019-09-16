@@ -25,6 +25,7 @@ Every team must create a new repository on GitHub. To submit your solution, one 
 * Applied license
 * Services used
 * Languages used
+* Optional: points of interest in the code
 
 ## Pitch
 As this is a short and intense hackathon with 26 competing teams, only 8 teams will get the chance to pitch their solution to the audience. Representatives from Norrsken & Ericsson will select the finalists (two from each challenge). 
