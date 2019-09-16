@@ -21,7 +21,7 @@ Every team must create a new repository on GitHub. To submit your solution, one 
 * Team members
 * Challenge
 * Our solution: (a short description of the idea)
-* Presentation slides (optional)
+* Presentation slides (maximum 3 slides in Power Point or Keynote format, no video content)
 * Applied license
 * Services used
 * Languages used
