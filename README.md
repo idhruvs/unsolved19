@@ -34,10 +34,19 @@ The finalists will be announced in the beginning of the pitch event. There will 
 
 ## Prize categories
 
-The pitching teams will compete in three different categories. A voting audience will pick the winners in the categories Best Pitch and Best Technical Solution.
+The pitching teams will compete in three different categories. A voting audience will pick the winners in the categories Best Pitch and Best Technical Solution. The winners in these categories get eternal honour :)
 
-The final prize category is presented by our sponsor Ericsson and is called the Game Changer Award. This award goes to the most feasible, scalable and viable idea with possibility to make an impact today. The winner will be chosen by a jury with Ericsson and Norrsken representatives. 
 
+The final prize category is presented by our sponsor Ericsson and is called the Game Changer Award. This award goes to the most feasible, scalable and viable idea with possibility to make an impact today. The winner will be chosen by a jury with Ericsson and Norrsken representatives.  The winners of the  Game Changer category  will get:
+
+**The Power of Ericsson ONE:**
+The winning team will be fast-tracked to pitch for incubation and support from Ericsson ONE, and we will dedicate 2 months to help them realize their idea.
+
+**The Power of a Connected world:**
+Ericsson ONE will open up their contacts and connect the winners to people that will empower them on your journey.
+From Norrsken, the Game Changers will get:
+All the individuals in the winning team will get a personal one month free membership at Norrsken House.
+A sit down with investors from Norrsken Founders Fund to pitch your idea and get feedback. 
 
 ## Hacker day event partner 
 
