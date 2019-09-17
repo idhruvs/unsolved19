@@ -39,10 +39,10 @@ The pitching teams will compete in three different categories. A voting audience
 
 The final prize category is presented by our sponsor Ericsson and is called the Game Changer Award. This award goes to the most feasible, scalable and viable idea with possibility to make an impact today. The winner will be chosen by a jury with Ericsson and Norrsken representatives.  The winners of the  Game Changer category  will get:
 
-**The Power of Ericsson ONE:**
+**The Power of Ericsson ONE:** <br>
 The winning team will be fast-tracked to pitch for incubation and support from Ericsson ONE, and we will dedicate 2 months to help them realize their idea.
 
-**The Power of a Connected world:**
+**The Power of a Connected world:** <br>
 Ericsson ONE will open up their contacts and connect the winners to people that will empower them on your journey.
 From Norrsken, the Game Changers will get:
 All the individuals in the winning team will get a personal one month free membership at Norrsken House.
