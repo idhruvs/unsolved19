@@ -21,14 +21,14 @@ Every team must create a new repository on GitHub. To submit your solution, one 
 * Team members
 * Challenge
 * Our solution: (a short description of the idea)
-* Presentation slides (maximum 3 slides in Power Point or Keynote format, no video content)
+* Presentation slides (ONLY POWERPOINT & KEYNOTE FORMAT)
 * Applied license
 * Services used
 * Languages used
 * Optional: points of interest in the code
 
 ## Pitch
-As this is a short and intense hackathon with 26 competing teams, only 8 teams will get the chance to pitch their solution to the audience. Representatives from Norrsken & Ericsson will select the finalists (two from each challenge). 
+As this is a short and intense hackathon with 26 competing teams, only 8 teams will get the chance to pitch their solution to the audience. PITCH TIME 3 MIN. Representatives from Norrsken & Ericsson will select the finalists (two from each challenge). 
 
 The finalists will be announced in the beginning of the pitch event. There will be no time to prepare a presentation once the finalists have been announced, meaning that all teams must be ready to pitch at 8pm. You can choose whatever presentation tool you want but it must have the format 16:9. The pitch time is limited to three minutes, so keep it short and sweet!
 
