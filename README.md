@@ -61,3 +61,5 @@ info@norrskenfoundation.org<br>
 *We are a non-religious, non-partisan, non-profit Foundation with a strong belief in Effective Altruism. We support and invest in both for-profit businesses and non-profit organizations, whichever we believe is most likely to have a positive impact on society. Although we are based in Stockholm, Sweden, we see ourselves as world citizens.*
 
 [Terms & conditions](https://hackforimpact.norrskenimpactweek.org/terms-and-conditions)
+
+[link](https://docs.google.com/document/d/101GkXZEMNwAXU6dylU9hxPmHL9vOrbqv8dkX4eeakSg/edit?usp=sharing)
